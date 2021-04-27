@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-angular-fe513": {
+      "hosting": {
+        "AngularFirebase": [
+          "empleados-angular-fe513"
+        ]
+      }
+    }
+  }
+}
